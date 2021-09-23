@@ -1,6 +1,9 @@
-# news_app
+# NEWS APP
 
-A new Flutter project.
+Application where you can see latest news with categories and search in news b specifique.
+
+## Technlologies
+Using Flutter with https://newsapi.org/ using bloc for state management and shard preferences for save light or dark theme in cache.
 
 ## Getting Started
 
