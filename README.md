@@ -3,7 +3,11 @@
 Application where you can see latest news with categories and search in news b specifique.
 
 ## Technlologies
+
 Using Flutter with https://newsapi.org/ using bloc for state management and shard preferences for save light or dark theme in cache.
+
+https://user-images.githubusercontent.com/54622974/134644069-97ee95c8-f496-41e5-812b-566e2eb52281.mp4
+
 
 ## Getting Started
 
